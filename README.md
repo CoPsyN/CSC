@@ -89,4 +89,27 @@
    
 
 ---
-If you use this dataset, please cite the following paper: https://arxiv.org/abs/2404.06357
+If you use this dataset, please cite the following papers: 
+
+Links:
+1. https://arxiv.org/abs/2404.06357 
+2. https://escholarship.org/uc/item/1cw1m8bm
+
+BibTex:
+1. @misc{jang2024generalizable,\
+      title={Generalizable Sarcasm Detection Is Just Around The Corner, Of Course!}, \
+      author={Hyewon Jang and Diego Frassinelli},\
+      year={2024},\
+      eprint={2404.06357},\
+      archivePrefix={arXiv},\
+      primaryClass={cs.CL}\
+}
+
+2. @inproceedings{jang2023intended,\
+  title={Intended and Perceived Sarcasm Between Close Friends: What Triggers Sarcasm and What Gets Conveyed?},\
+  author={Jang, Hyewon and Braun, Bettina and Frassinelli, Diego},\
+  booktitle={Proceedings of the Annual Meeting of the Cognitive Science Society},\
+  volume={45},\
+  number={45},\
+  year={2023}\
+}
