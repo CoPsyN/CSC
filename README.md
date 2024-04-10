@@ -89,5 +89,4 @@
    
 
 ---
-If you use this dataset, please cite the following paper: (coming soon)
-
+If you use this dataset, please cite the following paper: https://arxiv.org/abs/2404.06357
