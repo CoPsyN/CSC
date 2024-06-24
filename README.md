@@ -92,7 +92,7 @@
 If you use this dataset, please cite the following papers: 
 
 Links:
-1. https://arxiv.org/abs/2404.06357 
+1. https://aclanthology.org/2024.naacl-long.238/
 2. https://escholarship.org/uc/item/1cw1m8bm
 
 BibTex:
