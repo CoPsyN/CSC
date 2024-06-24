@@ -96,14 +96,22 @@ Links:
 2. https://escholarship.org/uc/item/1cw1m8bm
 
 BibTex:
-1. @misc{jang2024generalizable,\
-      title={Generalizable Sarcasm Detection Is Just Around The Corner, Of Course!}, \
-      author={Hyewon Jang and Diego Frassinelli},\
-      year={2024},\
-      eprint={2404.06357},\
-      archivePrefix={arXiv},\
-      primaryClass={cs.CL}\
+1. @inproceedings{jang-frassinelli-2024-generalizable,
+    title = "Generalizable Sarcasm Detection is Just Around the Corner, of Course!",
+    author = "Jang, Hyewon  and
+      Frassinelli, Diego",
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.naacl-long.238",
+    pages = "4238--4249",
 }
+
 
 2. @inproceedings{jang2023intended,\
   title={Intended and Perceived Sarcasm Between Close Friends: What Triggers Sarcasm and What Gets Conveyed?},\
