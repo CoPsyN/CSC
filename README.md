@@ -1,5 +1,6 @@
 # Conversational Sarcasm Corpus (CSC)
 
+--- 
 **1. List of files**: There are 3 files in either .csv or .json format. The content in either format is the same.
 
   * csv
@@ -89,31 +90,35 @@
    
 
 ---
-If you use this dataset, please cite the following papers: 
+**5. Citations** - If you use this dataset, please cite the following papers: 
 
-Links:
+<br/>
+
 1. https://aclanthology.org/2024.naacl-long.238/
-2. https://escholarship.org/uc/item/1cw1m8bm
 
-BibTex:
-1. @inproceedings{jang-frassinelli-2024-generalizable,
-    title = "Generalizable Sarcasm Detection is Just Around the Corner, of Course!",
+
+   @inproceedings{jang-frassinelli-2024-generalizable,\
+    title = "Generalizable Sarcasm Detection is Just Around the Corner, of Course!",\
     author = "Jang, Hyewon  and
-      Frassinelli, Diego",
+      Frassinelli, Diego",\
     editor = "Duh, Kevin  and
       Gomez, Helena  and
-      Bethard, Steven",
-    booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
-    month = jun,
-    year = "2024",
-    address = "Mexico City, Mexico",
-    publisher = "Association for Computational Linguistics",
+      Bethard, Steven",\
+    booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",\
+    month = jun,\
+    year = "2024",\
+    address = "Mexico City, Mexico",\
+    publisher = "Association for Computational Linguistics",\
     url = "https://aclanthology.org/2024.naacl-long.238",
-    pages = "4238--4249",
+    pages = "4238--4249",\
 }
 
+<br/>
 
-2. @inproceedings{jang2023intended,\
+2. https://escholarship.org/uc/item/1cw1m8bm
+   <br/>
+
+   @inproceedings{jang2023intended,\
   title={Intended and Perceived Sarcasm Between Close Friends: What Triggers Sarcasm and What Gets Conveyed?},\
   author={Jang, Hyewon and Braun, Bettina and Frassinelli, Diego},\
   booktitle={Proceedings of the Annual Meeting of the Cognitive Science Society},\
@@ -121,3 +126,10 @@ BibTex:
   number={45},\
   year={2023}\
 }
+
+! <Errata for paper #2>
+
+In Table 3, the significance for two variables in Experiment 2 require the following corrections: 'criticize harsher' (*) and 'context:crit.harsher' (**). The directions of the coefficients remains the same. Therefore, the corrected results indicate that **the intention to criticize, either harsher or softer, is a predictor of higher sarcasm ratings for observers**. 
+
+
+
