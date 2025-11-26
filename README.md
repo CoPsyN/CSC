@@ -3,10 +3,11 @@
 --- 
 ### 1. List of files: 
 
-There are 3 files in either .csv or .json format. The content in either format is the same.
+There are 3 files in **.tsv**, **.csv** or **.json** format. \
+**.tsv** files include demographic information. \
+**.csv** and **.json** files do not have demographic information (same content in either).
 
 
- **(NEW)!**
    * tsv
    1. data_part1_w_demo.tsv
    2. data_part2_w_demo.tsv
@@ -35,7 +36,7 @@ There are 3 files in either .csv or .json format. The content in either format i
    
    * <data_part1> and <data_part2> have additional information collected from their respective experiments.
 
-   * <data*_w_demo> contains demographic information about speakers (sarcasm producers) and external evaluators. There are missing data values in these files.
+   * <data*_w_demo> contain demographic information about speakers (sarcasm producers) and external evaluators. There are missing data values in these files.
 
 ---
 
@@ -98,6 +99,8 @@ There are 3 files in either .csv or .json format. The content in either format i
       4 (somewhat) \
       5 (mostly) \
       6 (completely) 
+
+ * For Big Five Personality questions, the text coding for 1 - 6 was *strongly disagree - disagree - somewhat disagree - somewhat agree - agree - strongly agree*.
 
   * Intentions were collected as multiple-choice questions. There are 8 intentions in total:
 
